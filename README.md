@@ -225,7 +225,7 @@ The repository contains screenshots demonstrating:
 ├── 📁 screenshots/
 ├── 📄 API_Security_Risk_Analysis_Report.pdf
 ├── 📄 README.md
-
+```
 ## 👤 Author
 
 **Kelvin Mbise**
@@ -248,4 +248,3 @@ Internship: Future Interns
 ## 📄 License
 
 This project is intended for **educational and academic purposes only**. 
-```
